@@ -84,6 +84,7 @@ const StudentDashboard = () => {
                     </Routes>
                 </Box>
             </Box>
+            
         </>
     );
 }
